@@ -1,0 +1,38 @@
+{
+  "semesters": [
+    {
+      "id": "semester-1",
+      "name": "Semester 1",
+      "modules": ["LAN3107", "LAN3108", "LAN3144A", "LAN3144B", "LAN4101", "LAN4102", "LAN4103", "LAN4104", "LAN4109", "LAN4144B"]
+    },
+    {
+      "id": "semester-2",
+      "name": "Semester 2",
+      "modules": ["LAN3108", "LAN3123", "LAN4101", "LAN4102", "LAN4103", "LAN4104"]
+    },
+    {
+      "id": "semester-3",
+      "name": "Semester 3",
+      "modules": ["LAN3108", "LAN4102", "LAN4103", "LAN4104"]
+    }
+  ],
+  "modules": {
+    "LAN4104": { "title": "Professional Workplace Communication: Pitching and Persuasive Presentation", "href": "modules/lan4104/index.html", "status": "live", "offeredIn": ["Semester 1", "Semester 2", "Semester 3"] },
+    "LAN3107": { "title": "LAN3107", "href": "modules/lan3107.html", "status": "stub" },
+    "LAN3108": { "title": "LAN3108", "href": "modules/lan3108.html", "status": "stub" },
+    "LAN3123": { "title": "LAN3123", "href": "modules/lan3123.html", "status": "stub" },
+    "LAN3144A": { "title": "LAN3144A", "href": "modules/lan3144a.html", "status": "stub" },
+    "LAN3144B": { "title": "LAN3144B", "href": "modules/lan3144b.html", "status": "stub" },
+    "LAN4101": { "title": "LAN4101", "href": "modules/lan4101.html", "status": "stub" },
+    "LAN4102": { "title": "LAN4102", "href": "modules/lan4102.html", "status": "stub" },
+    "LAN4103": { "title": "LAN4103", "href": "modules/lan4103.html", "status": "stub" },
+    "LAN4109": { "title": "LAN4109", "href": "modules/lan4109.html", "status": "stub" },
+    "LAN4144B": { "title": "LAN4144B", "href": "modules/lan4144b.html", "status": "stub" }
+  },
+  "resources": [
+    { "name": "HD Exemption Materials", "href": "resources/hd-exemption.html", "status": "stub" },
+    { "name": "Peer Tutoring", "href": "resources/peer-tutoring.html", "status": "stub" },
+    { "name": "Remedial Sessions", "href": "resources/remedial.html", "status": "stub" },
+    { "name": "Study Package", "href": "resources/study-package.html", "status": "stub" }
+  ]
+}
